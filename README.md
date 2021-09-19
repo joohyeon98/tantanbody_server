@@ -6,7 +6,7 @@ back-end 개발에 대해서 적어둡니다.
 * 나현정(컴퓨터공학부 18)
 * 이주현(컴퓨터공학부 17)
 
-## spring init
+## spring boot init
 ### project & language
 * Gradle
 * Java 11
@@ -15,7 +15,7 @@ back-end 개발에 대해서 적어둡니다.
 * Spring Web
 * Lombok
 * MyBatis Framework
-* Thymleaf
+* Thymleaf - 사용 안할 것 같기는 한데 일단 넣었어요
 
 ## database
 * MySQL 8.0
