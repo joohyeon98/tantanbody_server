@@ -1,6 +1,7 @@
 package tantanbody.login.service;
 
-import tantanbody.login.serviceImpl.LoginServiceImpl;
+import tantanbody.model.LoginModel;
 
-public class LoginService implements LoginServiceImpl {
+public interface LoginService {
+    public String insertUser(String email, String name, String photo) throws Exception;
 }

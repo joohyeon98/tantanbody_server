@@ -1,4 +1,8 @@
 package tantanbody.login.mapper;
 
-public class LoginMapper {
+import org.apache.ibatis.annotations.Mapper;
+
+@Mapper
+public interface LoginMapper {
+    public String setUser() throws Exception;
 }
