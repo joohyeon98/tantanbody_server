@@ -16,6 +16,8 @@ back-end 개발에 대해서 적어둡니다.
 * Lombok
 * MyBatis Framework
 * Thymleaf - 사용 안할 것 같기는 한데 일단 넣었어요
+### flow
+Controller -> Service(interface) -> ServiceImpl(implements Service) -> Mapper -> .xml   
 
 ## database
 * MySQL 8.0
